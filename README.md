@@ -42,11 +42,11 @@ rm nd_mate2.fastq
 
 #platanus:
 
-platanus assemble -o Poil -f nd_paired1.fastaq.trimmed nd_paired2.fastaq.trimmed 2>assemble.log
+platanus assemble -o Poil -f nd_paired1.fastq.trimmed nd_paired2.fastq.trimmed 2>assemble.log
 
-platanus scaffold -o Poil -c Poil_contig.fa -IP1 nd_paired1.fastaq.trimmed nd_paired2.fastaq.trimmed -OP2 nd_mate1.fastq.int_trimmed nd_mate2.fastq.int_trimmed 2>scaffold.log
+platanus scaffold -o Poil -c Poil_contig.fa -IP1 nd_paired1.fastq.trimmed nd_paired2.fastq.trimmed -OP2 nd_mate1.fastq.int_trimmed nd_mate2.fastq.int_trimmed 2>scaffold.log
 
-platanus gap_close  -o Poil -c Poil_scaffold.fa -IP1 nd_paired1.fastaq.trimmed nd_paired2.fastaq.trimmed -OP2 nd_mate1.fastq.int_trimmed nd_mate2.fastq.int_trimmed 2>gap_close.log
+platanus gap_close  -o Poil -c Poil_scaffold.fa -IP1 nd_paired1.fastq.trimmed nd_paired2.fastq.trimmed -OP2 nd_mate1.fastq.int_trimmed nd_mate2.fastq.int_trimmed 2>gap_close.log
 
 fastqc nd_paired1.fastq.trimmed
 
