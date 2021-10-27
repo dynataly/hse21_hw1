@@ -48,3 +48,7 @@ rm *trimmed
 Статистика multiqc:
 
 Ссылки на google colab:
+
+Анализ контигов: https://colab.research.google.com/drive/1atCTOuOQlgZ4-4gwlrkuKIpkpNdW5Qo7?usp=sharing
+
+
