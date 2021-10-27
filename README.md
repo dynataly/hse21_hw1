@@ -103,4 +103,5 @@ rm *trimmed
 
 Анализ скаффолдов: https://colab.research.google.com/drive/1XY4wsrEVf1W4Q_X-EUPIhwKO3XlfryUV?usp=sharing
 
+Необязательная часть: https://colab.research.google.com/drive/1YwaFygQz8ymITHd8i1HOlXGKtn_68KDN?usp=sharing
 
