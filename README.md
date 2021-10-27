@@ -47,8 +47,12 @@ rm *trimmed
 
 Статистика multiqc:
 
+![1 1](https://user-images.githubusercontent.com/72361668/139110692-059ccd9f-12a9-41cd-9f35-d86e1058c42f.png)
+
 Ссылки на google colab:
 
 Анализ контигов: https://colab.research.google.com/drive/1atCTOuOQlgZ4-4gwlrkuKIpkpNdW5Qo7?usp=sharing
+
+Анализ скаффолдов: https://colab.research.google.com/drive/1XY4wsrEVf1W4Q_X-EUPIhwKO3XlfryUV?usp=sharing
 
 
