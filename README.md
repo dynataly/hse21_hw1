@@ -48,4 +48,3 @@ rm *trimmed
 Статистика multiqc:
 
 Ссылки на google colab:
-
